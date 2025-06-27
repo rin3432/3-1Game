@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\MyLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:MyLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\MyLevel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:MyLevel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Cade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:Cade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Cade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:Cade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\BackGround.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:BackGround.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\GameCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:GameCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\BackGround.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:BackGround.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\GameCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:GameCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282445E9-421F-46C0-9165-6C90D7C7EFC4}|Game.vcxproj|solutionrelative:stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\gameObject\\GameObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\RenderContext_inline.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\ExEngine\\bulletPhysics\\src\\BulletCollision\\BroadphaseCollision\\btBroadphaseProxy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\level3D\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T02:11:21.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLevel.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\MyLevel.cpp",
+              "RelativeDocumentMoniker": "MyLevel.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\MyLevel.cpp",
+              "RelativeToolTip": "MyLevel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T05:10:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameCamera.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\GameCamera.cpp",
+              "RelativeDocumentMoniker": "GameCamera.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\GameCamera.cpp",
+              "RelativeToolTip": "GameCamera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T02:39:26.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cade.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Cade.h",
+              "RelativeDocumentMoniker": "Cade.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Cade.h",
+              "RelativeToolTip": "Cade.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-04T05:31:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cade.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Cade.cpp",
+              "RelativeDocumentMoniker": "Cade.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Cade.cpp",
+              "RelativeToolTip": "Cade.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T04:28:51.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackGround.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\BackGround.cpp",
+              "RelativeDocumentMoniker": "BackGround.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\BackGround.cpp",
+              "RelativeToolTip": "BackGround.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T02:22:22.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLevel.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\MyLevel.h",
+              "RelativeDocumentMoniker": "MyLevel.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\MyLevel.h",
+              "RelativeToolTip": "MyLevel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T05:09:37.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T02:11:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T02:47:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T02:46:55.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BackGround.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\BackGround.h",
+              "RelativeDocumentMoniker": "BackGround.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\BackGround.h",
+              "RelativeToolTip": "BackGround.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T02:20:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameCamera.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\GameCamera.h",
+              "RelativeDocumentMoniker": "GameCamera.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\GameCamera.h",
+              "RelativeToolTip": "GameCamera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T02:37:12.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameObjectManager.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\gameObject\\GameObjectManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\gameObject\\GameObjectManager.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\gameObject\\GameObjectManager.h",
+              "RelativeToolTip": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\gameObject\\GameObjectManager.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAlwE4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-05T04:39:32.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RenderContext_inline.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\RenderContext_inline.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\RenderContext_inline.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\RenderContext_inline.h",
+              "RelativeToolTip": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\RenderContext_inline.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAlwFEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T04:32:33.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Texture.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\Texture.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\Texture.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\Texture.h",
+              "RelativeToolTip": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\graphics\\Texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T04:32:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ViewState": "AgIAACsHAAAAAAAAAAAlwD4HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-05T05:04:59.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T02:27:35.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "btBroadphaseProxy.h",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\ExEngine\\bulletPhysics\\src\\BulletCollision\\BroadphaseCollision\\btBroadphaseProxy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\ExEngine\\bulletPhysics\\src\\BulletCollision\\BroadphaseCollision\\btBroadphaseProxy.h",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\ExEngine\\bulletPhysics\\src\\BulletCollision\\BroadphaseCollision\\btBroadphaseProxy.h",
+              "RelativeToolTip": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\ExEngine\\bulletPhysics\\src\\BulletCollision\\BroadphaseCollision\\btBroadphaseProxy.h",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAlwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T05:21:46.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\level3D\\Level.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\level3D\\Level.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\k2Engine\\GameTemplate\\k2EngineLow\\level3D\\Level.cpp",
+              "RelativeToolTip": "..\\..\\..\\k2Engine\\GameTemplate\\k2EngineLow\\level3D\\Level.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T05:11:32.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\stdafx.cpp",
+              "RelativeDocumentMoniker": "stdafx.cpp",
+              "ToolTip": "C:\\Users\\nabi1\\Desktop\\3-1Game\\GameTemplate\\Game\\stdafx.cpp",
+              "RelativeToolTip": "stdafx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T02:27:35.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
